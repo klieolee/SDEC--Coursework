@@ -27,7 +27,7 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-iris = pd.read_cvs('https://raw.githubusercontent.com/klieolee/SDEC-Coursework/main/IRIS.csv')
+iris = pd.read_cvs("https://raw.githubusercontent.com/klieolee/SDEC-Coursework/main/IRIS.csv")
 X = iris.drop('species'),axis=1)
 Y = iris.species
 
