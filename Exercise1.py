@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
-st.image("https://unsplash.com/photos/1w-iEi4SSzo")
+st.image("https://www.thespruce.com/thmb/0RWnN5isn8w0F7e66iXKHa9hscA=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iris-flowers-plant-profile-5120188-hero-ccb44fcb101b4314b913ce5af09f9c1c.jpg")
 st.write("""
 # Simple Iris Flower Prediction App
 This app predicts the **Iris flower** type!
