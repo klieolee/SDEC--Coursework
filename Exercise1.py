@@ -49,4 +49,4 @@ st.write(prediction)
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-st.success("Input Noted")
+st.balloons
